@@ -6,4 +6,6 @@
 
 12341
 
-checkout dev  jjj
+
+checkout feature1 dev 阿道夫 jjj
+
